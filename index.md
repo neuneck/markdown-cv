@@ -59,7 +59,7 @@ __Campus Tour Guide at DESY__
 `2013/10 - 2016/12`
 __DESY / Universitaet Hamburg__
 
-PhD in theoretical physics (Magna cum laude)
+PhD in theoretical physics (Magna cum laude) ([thesis](https://ediss.sub.uni-hamburg.de/handle/ediss/7029))
 
 `2008/04 - 2013/09`
 __Karlsruhe Institute of Technology__
@@ -69,7 +69,7 @@ Diplom Physik (With distinction, GPA 1.0)
 ## Miscellaneous
 
 - Contributor / Maintainer of [flowpipe](https://github.com/PaulSchweizer/flowpipe)
-- Feated on the [Computer Vision in Production Podcast](https://www.buzzsprout.com/1691665/8893506-computer-vision-in-production-julian-schweizer)
+- Featured on the [Computer Vision in Production Podcast](https://www.buzzsprout.com/1691665/8893506-computer-vision-in-production-julian-schweizer)
 
 <!-- ### Footer
 
