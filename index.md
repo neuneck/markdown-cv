@@ -12,9 +12,13 @@ title: Julian Schweizer's CV
 ## Key skills
 
 - Thorough analytic and mathematical mind
+
 - Advanced python programming, producing clean, structured, and maintainable code
+
 - Building stable python microservices with flask, gunicorn, Docker, and Kubernetes
+
 - Designing and building machine learning solutions with TensorFlow, scikit-learn
+
 - Handling, analyzing and visualizing data with SQL, pandas, matplotlib, bokeh
 
 ## Experience
@@ -24,9 +28,6 @@ __Team lead Computer Vision and Machine Learning at [Nect GmbH](https://nect.com
 
 - Leading a team of Machine Learning and Python engineers.
 - Design, implementation, deployment and maintenance of the production data processing pipeline
-      - Core logic (tensorflow, OpenCV, Python)
-      - Python microservices (gunicorn, flask, structlog)
-      - Deployed on a Kubernetes cluster (Docker, Kubernetes)
 - Significant contribution to the audit proving the pipeline's compliance with German Trust Service regulation
 
 `2018/09 - 2019/08`
