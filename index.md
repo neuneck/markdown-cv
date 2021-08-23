@@ -2,90 +2,57 @@
 layout: cv
 title: Julian Schweizer's CV
 ---
-# Julian Schweizer
+# Dr. rer. nat. Julian Schweizer
 
 <div id="webaddress">
 <a href="julian.k.schweizer@gmail.com">julian.k.schweizer@gmail.com</a>
-|
-<a href="https://github.com/neuneck">github</a>
+| <a href="https://github.com/neuneck">github</a>
 </div>
 
+## Key skills
 
-## Currently
+- Thorough analytic and mathematical mind
+- Advanced python programming, producing clean, structured, and maintainable code
+- Building stable python microservices with flask, gunicorn, Docker, and Kubernetes
+- Designing and building machine learning solutions with TensorFlow, scikit-learn
+- Handling, analyzing and visualizing data with SQL, pandas, matplotlib, bokeh
 
-Team lead Computer Vision and Machine Learning at nect
+## Experience
 
-### Specialized in
+`2019/08 - current`
+__Team lead Computer Vision and Machine Learning at [Nect GmbH](https://nect.com)__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Leading a team of Machine Learning and Python engineers.
+- Design, implementation, deployment and maintenance of the production data processing pipeline
+      - Core logic (tensorflow, OpenCV, Python)
+      - Python microservices (gunicorn, flask, structlog)
+      - Deployed on a Kubernetes cluster (Docker, Kubernetes)
+- Significant contribution to the audit proving the pipeline's compliance with German Trust Service regulation
 
+`2018/09 - 2019/08`
+__Data Privacy Officer__
 
-### Research interests
+- Set up initial GDPR documentation
+- Significant contribution to the audit proving the GDPR compliance of Nect
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2018/08 - 2019/08`
+__Data Scientist__
+
+- Design, implementation, deployment and maintenance of the production data processing pipeline
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013/10 - 2016/12`
+__DESY / Universitaet Hamburg__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+PhD in theoretical physics
 
-- Sizar
+`2008/04 - 2013/09`
+__Karlsruhe Institute of Technology__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Diplom Physik (With distinction, GPA 1.0)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: Aug 2021 -->
