@@ -19,9 +19,6 @@ title: Julian Schweizer's CV
 - Designing and building machine learning solutions with TensorFlow, scikit-learn
 - Handling, analyzing and visualizing data with SQL, pandas, matplotlib, bokeh
 
-## Languages
-- English (fluent), German (native), French (intermediate)
-
 ## Experience
 
 `2019/08 - current`
@@ -65,6 +62,9 @@ PhD in theoretical physics (Magna cum laude) ([thesis](https://ediss.sub.uni-ham
 __Karlsruhe Institute of Technology__
 
 Diplom Physik (With distinction, GPA 1.0)
+
+## Languages
+- English (fluent), German (native), French (intermediate)
 
 ## Miscellaneous
 
