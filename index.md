@@ -6,12 +6,14 @@ title: Julian Schweizer's CV
 
 <div id="webaddress">
 <a href="julian.k.schweizer@gmail.com">julian.k.schweizer@gmail.com</a>
+|
+<a href="https://github.com/neuneck">github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Team lead Computer Vision and Machine Learning at nect
 
 ### Specialized in
 
