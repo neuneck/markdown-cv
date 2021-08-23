@@ -12,15 +12,10 @@ title: Julian Schweizer's CV
 ## Key skills
 
 - Thorough analytic and mathematical mind
-
 - Clear and concise communication
-
 - Advanced python programming, producing clean, structured, and maintainable code
-
 - Building stable python microservices with flask, gunicorn, Docker, and Kubernetes
-
 - Designing and building machine learning solutions with TensorFlow, scikit-learn
-
 - Handling, analyzing and visualizing data with SQL, pandas, matplotlib, bokeh
 
 ## Experience
