@@ -7,6 +7,7 @@ title: Julian Schweizer's CV
 <div id="webaddress">
 <a href="julian.k.schweizer@gmail.com">julian.k.schweizer@gmail.com</a>
 | <a href="https://github.com/neuneck">github</a>
+| <a href="https://www.linkedin.com/in/jkschweizer/">linkedin</a>
 </div>
 
 ## Key skills
@@ -17,7 +18,9 @@ title: Julian Schweizer's CV
 - Building stable python microservices with flask, gunicorn, Docker, and Kubernetes
 - Designing and building machine learning solutions with TensorFlow, scikit-learn
 - Handling, analyzing and visualizing data with SQL, pandas, matplotlib, bokeh
-- Languages: English (fluent), German (native), French (intermediate)
+
+## Languages
+- English (fluent), German (native), French (intermediate)
 
 ## Experience
 
@@ -56,7 +59,7 @@ __Campus Tour Guide at DESY__
 `2013/10 - 2016/12`
 __DESY / Universitaet Hamburg__
 
-PhD in theoretical physics
+PhD in theoretical physics (Magna cum laude)
 
 `2008/04 - 2013/09`
 __Karlsruhe Institute of Technology__
