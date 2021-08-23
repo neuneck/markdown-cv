@@ -9,7 +9,7 @@ title: Julian Schweizer's CV
 | <a href="https://github.com/neuneck">github</a>
 </div>
 
-### Key skills
+## Key skills
 
 - Thorough analytic and mathematical mind
 - Clear and concise communication
