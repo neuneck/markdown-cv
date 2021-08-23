@@ -17,6 +17,7 @@ title: Julian Schweizer's CV
 - Building stable python microservices with flask, gunicorn, Docker, and Kubernetes
 - Designing and building machine learning solutions with TensorFlow, scikit-learn
 - Handling, analyzing and visualizing data with SQL, pandas, matplotlib, bokeh
+- Languages: English (fluent), German (native), French (intermediate)
 
 ## Experience
 
