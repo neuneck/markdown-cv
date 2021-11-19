@@ -26,34 +26,36 @@ __Team lead Computer Vision and Machine Learning at [Nect GmbH](https://nect.com
 
 * Leading a team of Machine Learning and Python engineers.
 * Full ownership of of the production data processing pipeline
+    * Topics include face detection and recognition, OCR, object detection, classification of images, audio and video, ...
 * Design, implementation, deployment and maintenance of
-    * Core logic (tensorflow, OpenCV, Python), Python microservices (gunicorn, flask, structlog), Deployment on a Kubernetes cluster (Docker, Kubernetes)
-    * Technical topics include OCR, object detection, classification of images, audio and video, ...
+    * Core logic (tensorflow, OpenCV, Python), 
+    * Python microservices (gunicorn, flask, structlog), 
+    * Deployment on a Kubernetes cluster (Docker, Kubernetes)
 * Significant contribution to an audit proving "Robo ident"'s compliance with German Trust Service regulation and eIDAS
 
 `2018/09 - 2019/08`
 __Data Privacy Officer at [Nect GmbH](https://nect.com)__
 
-- Set up GDPR documentation
-- Co-created processes to handle user rights
-- Significant contribution to an audit proving the GDPR compliance of Nect
+* Set up GDPR documentation
+* Co-created processes to handle user rights
+* Significant contribution to an audit proving the GDPR compliance of Nect
 
 `2018/08 - 2019/08`
 __Data Scientist at [Nect GmbH](https://nect.com)__
 
-- Design, implementation, deployment and maintenance of the production data processing pipeline
+* Design, implementation, deployment and maintenance of the production data processing pipeline
 
 `2017/01 - 2018/07`
 __Data Scientist at Hermes Germany GmbH__
 
-- Ad-hoc analyses using SQL, pandas, scikit-learn
-- Data visualization using matplotlib, bokeh
+* Ad-hoc analyses using SQL, pandas, scikit-learn, pyspark
+* Data visualization using matplotlib, bokeh
 
 `2013/11 - 2016/10`
 __Campus Tour Guide at DESY__
 
-- Guided visitors on tours around the DESY premises
-- Education geared to target groups ranging from active researchers, to students, to the elderly
+* Guided visitors on tours around the DESY premises
+* Education geared to target groups ranging from active researchers, to students, to the elderly
 
 ## Education
 
