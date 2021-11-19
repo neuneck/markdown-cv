@@ -27,8 +27,8 @@ __Team lead Computer Vision and Machine Learning at [Nect GmbH](https://nect.com
 - Leading a team of Machine Learning and Python engineers.
 - Full ownership of of the production data processing pipeline
 - Design, implementation, deployment and maintenance of
-      - Core logic (tensorflow, OpenCV, Python), Python microservices (gunicorn, flask, structlog), Deployment on a Kubernetes cluster (Docker, Kubernetes)
-      - Technical topics include OCR, object detection, classification of images, audio and video, ...
+    - Core logic (tensorflow, OpenCV, Python), Python microservices (gunicorn, flask, structlog), Deployment on a Kubernetes cluster (Docker, Kubernetes)
+    - Technical topics include OCR, object detection, classification of images, audio and video, ...
 - Significant contribution to an audit proving "Robo ident"'s compliance with German Trust Service regulation and eIDAS
 
 `2018/09 - 2019/08`
