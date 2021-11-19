@@ -13,8 +13,8 @@ title: Julian Schweizer's CV
 
 - Thorough analytic and mathematical mind
 - Advanced python programming, producing clean, structured, and maintainable code
-- Building stable python microservices with flask, gunicorn, Docker, and Kubernetes
 - Designing and building machine learning solutions with TensorFlow, scikit-learn
+- Building stable python microservices with flask, gunicorn, Docker, and Kubernetes
 - Handling, analyzing and visualizing data with SQL, pandas, matplotlib, bokeh
 
 ## Experience
@@ -23,17 +23,18 @@ title: Julian Schweizer's CV
 __Team lead Computer Vision and Machine Learning at [Nect GmbH](https://nect.com)__
 
 - Leading a team of Machine Learning and Python engineers.
-- Design, implementation, deployment and maintenance of the production data processing pipeline
-      - Core logic (tensorflow, OpenCV, Python)
-      - Python microservices (gunicorn, flask, structlog)
-      - Deployed on a Kubernetes cluster (Docker, Kubernetes)
-- Significant contribution to the audit proving the pipeline's compliance with German Trust Service regulation
+- Full ownership of of the production data processing pipeline
+- Design, implementation, deployment and maintenance of
+      - Core logic (tensorflow, OpenCV, Python), Python microservices (gunicorn, flask, structlog), Deployment on a Kubernetes cluster (Docker, Kubernetes)
+      - Technical topics include OCR, object detection, classification of images, audio and video, ...
+- Significant contribution to an audit proving "Robo ident"'s compliance with German Trust Service regulation and eIDAS
 
 `2018/09 - 2019/08`
 __Data Privacy Officer__
 
-- Set up initial GDPR documentation
-- Significant contribution to the audit proving the GDPR compliance of Nect
+- Set up GDPR documentation
+- Co-created processes to handle user rights
+- Significant contribution to an audit proving the GDPR compliance of Nect
 
 `2018/08 - 2019/08`
 __Data Scientist__
